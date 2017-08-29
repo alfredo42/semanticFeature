@@ -1,0 +1,14 @@
+sep=,
+Name,totalElements,Number Of States,elementsWithNLC,Number of Features
+walmart.com,17791,11,3636,66
+wikipedia.org,15686,9,6090,29
+wikiversity.org,9225,11,3703,40
+wikitravel.org,7380,10,3051,58
+homedepot.com,28865,10,5389,48
+bing.com,14679,10,2140,50
+ebay.com,20063,11,4848,43
+yandex.com,5238,7,795,38
+google.co.uk,7312,8,1521,48
+us.yahoo.com,6004,11,1335,57
+citizendium.org,2299,5,775,32
+amazon.com,21324,10,5973,55

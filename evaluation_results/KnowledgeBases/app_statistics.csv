@@ -1,0 +1,6 @@
+sep=,
+Name,totalElements,Number Of States,elementsWithNLC,Number of Features
+wikitravel.org,7380,10,3051,58
+wikiversity.org,9225,11,3703,40
+wikipedia.org,15686,9,6090,29
+citizendium.org,2299,5,775,32

@@ -1,0 +1,6 @@
+sep=,
+Name,totalElements,Number Of States,elementsWithNLC,Number of Features
+homedepot.com,28865,10,5389,48
+ebay.com,20063,11,4848,43
+walmart.com,17791,11,3636,66
+amazon.com,21324,10,5973,55
