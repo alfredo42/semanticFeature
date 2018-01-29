@@ -1,12 +1,10 @@
 # Semantic Feature Mapping - Learning from Test Cases of Other Apps
 
-This repository stores artifacts used for the evaluation of semantic feature mapping.
+This repository stores artifacts used for the evaluation of semantic feature mapping as well as the speed-up calculations for automated test transfer.
 
 ## Information
 
-To avoid potential privacy/security leaks, we tried to anonymize the provided data as good as possible. After the review process is complete, you can also can get access to the **network profile data** and the **screenshots** (used for debugging purpose). The meta-data used in presented in the archive describes in our own words, what the overall functionality of the state was, but was not used for calculating matchings.
-
-We spend our best effort to replace revealing descriptions in the data using the string `BLINDED`, without rendering the data useless by destroying the structure. You still might find *revealing* data if you spend serious effort.
+To avoid potential privacy/security leaks, we tried to anonymize the provided data as good as possible. The meta-data, presented in the archive, describes in our own words, what the overall functionality of the state was, but was not used for our analysis.
 
 ## Legal Information
 
